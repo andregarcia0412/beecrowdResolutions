@@ -1,1 +1,1 @@
-Resoluções de questões da plataforma Beecrowd em JavaScript
+Minhas resoluções de questões da plataforma Beecrowd
