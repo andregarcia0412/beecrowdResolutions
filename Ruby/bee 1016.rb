@@ -1,0 +1,1 @@
+puts sprintf("%d minutos", gets.to_i*2)
