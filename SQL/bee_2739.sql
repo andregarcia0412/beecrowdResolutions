@@ -1,0 +1,1 @@
+select name, extract( day from payday ) as day from loan
